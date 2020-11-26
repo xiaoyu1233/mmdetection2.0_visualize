@@ -71,6 +71,11 @@ Then check mmdetection/mmdetection directory, you will get PR figure.
 
 ![](https://github.com/xiaoyu1233/mmdetection2.0_visualize/raw/main/example/r50_voc_PR_Curve_each_class.png)
 
+# Appendix
+
+if issues are not solved in time, welcome to talk with me at my CSDN blog: https://blog.csdn.net/AI414010
+
+
 
 
 
