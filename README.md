@@ -35,7 +35,9 @@ git clone https://github.com/xiaoyu1233/mmdetection2.0_visualize
 2. Put File in the Proper Position
 
 put `visualize.py` under `/mmdetection/tools/`
+
 put `voc_eval_visualize.py` under `/mmdetection/tools/`
+
 put `mean_ap_visualize.py` under `mmdetection/mmdet/core/evaluation/`
 
 # How to Use
