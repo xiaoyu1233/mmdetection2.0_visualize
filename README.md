@@ -4,7 +4,7 @@ It is a simple tool based on mmdetection2.0. The tool is used for visualize test
 # What can It do
 The program supports drawing two figures. The loss figure includes six kinds of training loss. The PR figure includes PR curve and F1-score.
 
-loss figure:
+##loss figure:
 
 1. loss_rpn_bbox
 
@@ -18,7 +18,7 @@ loss figure:
 
 6. acc
 
-PR figure
+##PR figure
 
 1. PR_curve
 
