@@ -32,7 +32,7 @@ PR figure
 git clone https://github.com/xiaoyu1233/mmdetection2.0_visualize
 ```
 
-2.
+2. Put File in the Proper Position
 
 put `visualize.py` under `/mmdetection/tools/`
 put `voc_eval_visualize.py` under `/mmdetection/tools/`
@@ -40,7 +40,8 @@ put `mean_ap_visualize.py` under `mmdetection/mmdet/core/evaluation/`
 
 # How to Use
 
-1. loss figure
+1. Loss figure
+
 When training finished, you will have work _dirs directory in your mmdetection directory.
 Find your latest json directory and copy the path. And use it in this command.
 
