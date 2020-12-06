@@ -50,7 +50,7 @@ Find your latest json directory and copy the path. And use it in this command.
 At the same time, you should prepare a directory in your mmdetection diretory.
 Create output/work_dirs/faster_rcnn_r50_fpn_1x_voc directory.(The diretory in your output folder should be same as your work_dirs, or you can change it in code by yourself).
 ```
-python tools/visiualize.py work_dirs/faster_rcnn/faster_rcnn_r50_fpn_1x_voc/xxxxxxxx.log.json(your latest path)
+python tools/visualize.py work_dirs/faster_rcnn/faster_rcnn_r50_fpn_1x_voc/xxxxxxxx.log.json(your latest path)
 ```
 Then check the output/work_dirs/faster_rcnn_r50_fpn_1x_voc directory, you will get the loss figure.
 
